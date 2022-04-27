@@ -1,2 +1,3 @@
 - 👋 ola, meu nome e @mendes30
-- 👀 
+- meu e-mail de contato e @karine.mendes@escola.pr.gov.br
+- estou aprendendo a programar recentemente nos JavaScrit e Scrath
